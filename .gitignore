@@ -1,0 +1,6 @@
+car_dealership/settings_prod.py
+car_dealership/.env
+*.pyc
+car_dealership/__pycache__/
+cars/__pycache__/
+cars/migrations/
